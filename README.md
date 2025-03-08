@@ -11,9 +11,9 @@ Les données proviennent de différentes sources et sont traités à l'aide de B
 
 4️⃣ Production de caffé 
 
-4️⃣ Analyse du bonheur en focntion dees politiques au venezuela 
+4️⃣ Analyse du bonheur en fonction des politiques au venezuela 
 
-4️⃣ Analyse des données sportivees 
+4️⃣ Analyse des données sportives 
 
 👥 Auteurs
 [khalid OURO-ADOYI] - Ingénieur données
