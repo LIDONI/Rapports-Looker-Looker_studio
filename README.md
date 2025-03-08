@@ -1,7 +1,5 @@
 # Looker_demo
 
-Mes travaux personnelles avec looker studio
-
 🔮 **Description**
 
 Ce dossier regroupe un ensemble d'analyses réalisées avec Looker Studio.
