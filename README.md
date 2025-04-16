@@ -1,17 +1,17 @@
 # Looker_demo
 
-🔮 **Description**
+**Description**
 
 Ce dossier regroupe un ensemble d'analyses réalisées avec Looker Studio.
 Les données proviennent de différentes sources et sont traités à l'aide de Big Query
 
-🚀 Les différents projets ?
+**Les différents projets ?**
 
-4️⃣ Production de caffé 
+- Production de caffé 
 
-4️⃣ Analyse du bonheur en fonction des politiques au venezuela 
+- Analyse du bonheur en fonction des politiques au venezuela 
 
-4️⃣ Analyse des données sportives 
+- Analyse des données sportives 
 
-👥 Auteurs
+**Auteurs**
 [khalid OURO-ADOYI] - Ingénieur données
