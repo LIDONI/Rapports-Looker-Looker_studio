@@ -1,6 +1,6 @@
 # Looker Demo – Analyses de données visuelles
 
-**Description**
+## Description
 
 Ce dépôt présente une série d'analyses interactives réalisées avec Looker Studio.
 Les données proviennent de différentes sources et sont traitées à l’aide de BigQuery afin de permettre une visualisation claire et pertinente.
@@ -15,7 +15,7 @@ Explorer plusieurs cas d’usage à travers différents contextes métiers.
 
 ## Projets inclus
 
-** Visites de la Trump Hotel & Tower**
+**Visites de la Trump Hotel & Tower**
 
 La dynamique d'occupation se dégage pour les chambres et suites de la Trump Tower de Chicago ? 
 
