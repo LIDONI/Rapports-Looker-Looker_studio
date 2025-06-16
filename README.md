@@ -29,10 +29,15 @@ Google BigQuery : traitement et agrégation des données.
 
 Google Sheets / CSV : sources de données structurées.
 
-Auteur
-Khalid OURO-ADOYI
-Ingénieur Data | Développeur Power BI & Qlik Sense
-📧 khalidouroadoyi@gmail.com
-LinkedIn | GitHub
+## 👤 Auteur
+
+Ce projet a été réalisé par :
+
+**khalid OURO-ADOYI**  
+
+Data analytics engineer | Développeur Power BI ,Qlik sense 
+
+📧 Email : khalidouroadoyi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
 
 
