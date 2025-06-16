@@ -1,17 +1,38 @@
-# Looker_demo
+Looker Demo – Analyses de données visuelles
+Description
+Ce dépôt présente une série d'analyses interactives réalisées avec Looker Studio.
+Les données proviennent de différentes sources et sont traitées à l’aide de BigQuery afin de permettre une visualisation claire et pertinente.
 
-**Description**
+NB : Les données utilisées sont fictives et ne représentent pas des chiffres réels.
 
-Ce dossier regroupe un ensemble d'analyses réalisées avec Looker Studio.
-Les données proviennent de différentes sources et sont traités à l'aide de Big Query
+Objectifs du projet
+Illustrer l’utilisation de Looker Studio pour la visualisation de données.
 
-**Les différents projets ?**
+Intégrer et transformer des données via BigQuery avant visualisation.
 
-- Production de caffé 
+Explorer plusieurs cas d’usage à travers différents contextes métiers.
 
-- Analyse du bonheur en fonction des politiques au venezuela 
+Projets inclus
+Analyse de la production de café
+Visualisation des volumes de production par pays, évolution annuelle, et impact économique.
 
-- Analyse des données sportives 
+Étude sur le bien-être et la politique au Venezuela
+Corrélation entre indicateurs de bonheur et politiques publiques au cours des dernières années.
 
-**Auteurs**
-[khalid OURO-ADOYI] - Ingénieur données
+Analyse de données sportives
+Exploration de performances d’équipes et d’athlètes à partir de données historiques.
+
+Technologies utilisées
+Looker Studio : création de dashboards interactifs.
+
+Google BigQuery : traitement et agrégation des données.
+
+Google Sheets / CSV : sources de données structurées.
+
+Auteur
+Khalid OURO-ADOYI
+Ingénieur Data | Développeur Power BI & Qlik Sense
+📧 khalidouroadoyi@gmail.com
+LinkedIn | GitHub
+
+
