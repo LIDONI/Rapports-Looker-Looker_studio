@@ -54,8 +54,3 @@ Ce projet a été réalisé par :
 - 👨‍💻 All of my projects are available at [https://github.com/lidoni?tab=repositories](https://github.com/lidoni?tab=repositories)
 
 - 📄You can see my presentations in my linkedin posts [https://www.linkedin.com/in/khalid-ouro-adoyi/](https://www.linkedin.com/in/khalid-ouro-adoyi/)
-
-📧 Email : khalidouroadoyi@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
-- 📫 How to reach me **khalidouroadoyi@gmail.com**
-
