@@ -51,7 +51,7 @@ Ce projet a été réalisé par :
 
 **khalid OURO-ADOYI**  
 
-Data Analyst & Engineer | Développeur Power BI ,Qlik sense 
+Data & Cloud Engineer | Développeur Power BI ,Qlik sense 
 
 📧 Email : khalidouroadoyi@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
